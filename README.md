@@ -1,10 +1,9 @@
-# test-component
 
 > 
 三种重用vue组件逻辑的方式：
-#1：导入继承 extends
-#2：共享 mixins
-#3：使用组件组合
+# 1：导入继承 extends
+# 2：共享 mixins
+# 3：使用组件组合
 ## Build Setup
 
 ``` bash
